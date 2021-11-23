@@ -18,6 +18,9 @@ I'm Marie Bouvard, and I do content in Web Developmment in the following languag
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariebouvard)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariebouvard&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mariebouvard)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
