@@ -7,6 +7,7 @@ I'm Marie Bouvard, and I do content in Web Developmment in the following languag
 ## Skills: 
 * BOOTSTRAP / JS / HTML / CSS
 * RUBY ON RAILS
+* SYMFONY
 
 - 🌱 I’m currently learning Symfony, React and Vue.js 
 - 📫 How to reach me: marie.bouvard.contact@gmail.com 
