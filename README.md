@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Marie Bouvard
 #### Web Developper (Ruby on Rails, HTML, CSS, Javascript)
-![Web Developper (Ruby on Rails, HTML, CSS, Javascript)](https://github.com/MarieBouvard/MarieBouvard/blob/main/Github.png)
+![Web Developper (Ruby on Rails, HTML, CSS, Javascript)](https://github.com/MarieBouvard/MarieBouvard/blob/main/Banner.png)
 
 I'm Marie Bouvard, and I do content in Web Developmment in the following languages : Ruby (Framework Ruby on Rails), PHP(Symfony), HTML/CSS/JAVASCRIPT. I currently study self-taught, by using ressources on Udemy, OpenClassrooms and FreeCodeCamp and 🔭 I’m currently learning on Javascript Framework and librairies.. For more informations, please see details belows:
 
