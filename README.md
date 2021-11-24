@@ -15,7 +15,7 @@ I'm Marie Bouvard, and I do content in Web Developmment in the following languag
 
 ## Projets 
 
-<a href="https://ouiding.herokuapp.com/" target='blank'><img src='https://github.com/MarieBouvard/MarieBouvard/blob/main/Ouiding.png' alt='ouiding' height='200'></a>
+<a href="https://ouiding.herokuapp.com/" target='blank' class="mr-5"><img src='https://github.com/MarieBouvard/MarieBouvard/blob/main/Ouiding.png' alt='ouiding' height='200'></a>
 <a href="https://immobiluxe.herokuapp.com/" target='blank'><img src='https://github.com/MarieBouvard/MarieBouvard/blob/main/ImmobiLuxe.png' alt='Immobiluxe' height='200'></a>
 <a href="https://ouiding.herokuapp.com/" target='blank'><img src='https://github.com/MarieBouvard/MarieBouvard/blob/main/Ouiding.png' alt='ouiding' height='200'></a>
 <a href="https://immobiluxe.herokuapp.com/" target='blank'><img src='https://github.com/MarieBouvard/MarieBouvard/blob/main/ImmobiLuxe.png' alt='Immobiluxe' height='200'></a>
