@@ -17,11 +17,11 @@ I'm Marie Bouvard, and I do content in Web Developmment in the following languag
 
 <a href="https://ouiding.herokuapp.com/
 " target="_blank"><img src="https://github.com/MarieBouvard/MarieBouvard/blob/main/Ouiding.png" 
-alt="Ouiding" width="240" height="240" border="10" /></a>
+alt="Ouiding" width="300" height="240" border="10" /></a>
 
 <a href="https://immobiluxe.herokuapp.com/
 " target="_blank"><img src="https://github.com/MarieBouvard/MarieBouvard/blob/main/ImmobiLuxe.png" 
-alt="Ouiding" width="240" height="240" border="10" /></a>
+alt="Ouiding" width="300" height="240" border="10" /></a>
 
 <a href="https://ouiding.herokuapp.com/" target='_blank'><img src='https://github.com/MarieBouvard/MarieBouvard/blob/main/Ouiding.png' alt='ouiding' height='200'></a>
 <a href="https://immobiluxe.herokuapp.com/" target='_blank'><img src='https://github.com/MarieBouvard/MarieBouvard/blob/main/ImmobiLuxe.png' alt='Immobiluxe' height='200'></a>
